@@ -17,19 +17,8 @@ All app that i have developed.
 # The-Vaibhav-Hariramani-App 
 
 [<img width="350" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">The Vaibhav Hariramani App (Latest Version) ](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk)
-
-<img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu1.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/splash.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/Cv.png"> 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="200" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu1.png"> <img width="200"  src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu.png">  <img width="200" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/version2.0/shimla.png"> <img width="200" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/version2.0/Cv.png">
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ============================================================================================================================================================================================================================
 ### Made with ❤️by Vaibhav Hariramani
