@@ -1,8 +1,7 @@
 # App-Development
 All app that i have developed.
 # coronavirus_tracker APP
-<img width="200" src="https://github.com/vaibhavhariaramani/App-Development/blob/master/images/covid1.png">
-[<img width="350" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">]
+<img width="200" src="https://github.com/vaibhavhariaramani/App-Development/blob/master/images/covid1.png"> [<img width="350" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">](
 
 # CUIMS---Chandigarh-University-Management-System-Login-App
 
@@ -12,7 +11,7 @@ All app that i have developed.
 <img width="200" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/splash.png"> <img width="230"  src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/login.png">  <img width="200" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/home.png"> <img width="220" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/menu.png">
 
 # Ocr Scanner 
-[<img width="350" align='center' src="https://toppng.com/uploads/preview/images-buttons-download-red-download-button-11562896412yilsysnxsr.png">]
+[<img width="350" align='center' src="https://bornrealist.com/wp-content/uploads/2018/09/download-button.jpg">]()
 
 
 # The-Vaibhav-Hariramani-App 
@@ -21,6 +20,16 @@ All app that i have developed.
 
 <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu1.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/splash.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/Cv.png"> 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 =========================================================================================================================================================
 ### Made with ❤️by Vaibhav Hariramani
