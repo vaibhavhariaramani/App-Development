@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080833927675",
+    "firebase_url": "https://thevaibhavhariramaniapp-5aa08.firebaseio.com",
+    "project_id": "thevaibhavhariramaniapp-5aa08",
+    "storage_bucket": "thevaibhavhariramaniapp-5aa08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080833927675:android:9f6e1bd914f0b0437ac35e",
+        "android_client_info": {
+          "package_name": "com.geeky.developer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080833927675-38rqrp5i4v8tu8mtise9qa1nibsinkcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8vcko7NgANDgLnI9vEMkhjX7xgd8fROU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080833927675-38rqrp5i4v8tu8mtise9qa1nibsinkcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
