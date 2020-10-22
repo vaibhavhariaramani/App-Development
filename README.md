@@ -1,7 +1,7 @@
 # App-Development
 All app that i have developed.
 # coronavirus_tracker APP
-<img width="200" src="https://github.com/vaibhavhariaramani/App-Development/blob/master/images/covid1.png"> [<img width="350" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">](https://github.com/vaibhavhariaramani/WebView-App-Flutter/raw/main/covid19_tracker.apk)
+<img width="200" src="https://github.com/vaibhavhariaramani/App-Development/blob/master/images/covid1.png"> [<img width="150" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">](https://github.com/vaibhavhariaramani/WebView-App-Flutter/raw/main/covid19_tracker.apk)
 
 # CUIMS---Chandigarh-University-Management-System-Login-App
 
@@ -11,12 +11,12 @@ All app that i have developed.
 <img width="200" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/splash.png"> <img width="230"  src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/login.png">  <img width="200" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/home.png"> <img width="220" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/menu.png">
 
 # Ocr Scanner 
-[<img width="350" align='center' src="https://bornrealist.com/wp-content/uploads/2018/09/download-button.jpg">](https://github.com/vaibhavhariaramani/App-Development/raw/master/Ocr_Scanner_base.apk)
+[<img width="150" align='center' src="https://bornrealist.com/wp-content/uploads/2018/09/download-button.jpg">](https://github.com/vaibhavhariaramani/App-Development/raw/master/Ocr_Scanner_base.apk)
 
 
 # The-Vaibhav-Hariramani-App 
 
-[<img width="350" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">The Vaibhav Hariramani App (Latest Version) ](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk)
+[<img width="150" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">The Vaibhav Hariramani App (Latest Version) ](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk)
 <img width="200" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu1.png"> <img width="200"  src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu.png">  <img width="200" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/version2.0/shimla.png"> <img width="200" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/version2.0/Cv.png">
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
