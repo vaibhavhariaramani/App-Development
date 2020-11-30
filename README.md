@@ -12,7 +12,7 @@ All app that i have developed.
 
 # Pdf Viewer App
          
-![pdf_flutter_demo](https://github.com/vaibhavhariaramani/Pdf-viewer-Android-App-using-Flutter/blob/main/image/pdf_flutter_updated%20.gif)
+<img width="150" align='center' src="https://github.com/vaibhavhariaramani/Pdf-viewer-Android-App-using-Flutter/blob/main/image/pdf_flutter_updated%20.gif">
 
 [<img width="150" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">PDF Viewer ](https://drive.google.com/file/d/1QBM-qVp2DZsJP6tdSSr2lVhgzV9-R71T/view?usp=sharing)
 # Ocr Scanner 
