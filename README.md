@@ -10,6 +10,11 @@ All app that i have developed.
 
 <img width="200" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/splash.png"> <img width="230"  src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/login.png">  <img width="200" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/home.png"> <img width="220" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/menu.png">
 
+# Pdf Viewer App
+         
+![pdf_flutter_demo](https://github.com/vaibhavhariaramani/Pdf-viewer-Android-App-using-Flutter/blob/main/image/pdf_flutter_updated%20.gif)
+
+[<img width="150" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">PDF Viewer ](https://drive.google.com/file/d/1QBM-qVp2DZsJP6tdSSr2lVhgzV9-R71T/view?usp=sharing)
 # Ocr Scanner 
 [<img width="150" align='center' src="https://bornrealist.com/wp-content/uploads/2018/09/download-button.jpg">](https://github.com/vaibhavhariaramani/App-Development/raw/master/Ocr_Scanner_base.apk)
 
